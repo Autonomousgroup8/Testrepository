@@ -8,3 +8,5 @@ Wist je dat koala's bijna een anagram is van kloaka's?
 tijgers hebben strepen
 
 Giraffen hebben lange nekken
+
+Haaien hebben vinnen
